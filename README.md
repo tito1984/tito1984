@@ -6,7 +6,7 @@ I'm a software developer who is passionate about writing code, solving problems,
 
 - 🔭 I’m currently a IE student at Universidad Oberta de Catalunya.
 - 📚 I’m currently learning  backend web development using java, kotlin and spring.
-- 👯 I’m looking for a software development internship. 
+- 👯 I’m looking for a software development full time position. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/txema-lanchazo-serra-108128186/) [Gmail](mailto:txelan84@gmail.com)
 
 ⭐️ From [tito1984](https://github.com/tito1984)
